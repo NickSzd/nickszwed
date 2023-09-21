@@ -1,0 +1,19 @@
+{
+  "name": "nickszd",
+  "version": "1.0.0",
+  "description": "Personal website for Nicholas Szwed",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickSzd/nickszwed.git"
+  },
+  "author": "Nicholas Szwed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickSzd/nickszwed/issues"
+  },
+  "homepage": "https://github.com/NickSzd/nickszwed#readme"
+}
